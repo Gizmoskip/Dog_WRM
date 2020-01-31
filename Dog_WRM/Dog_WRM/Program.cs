@@ -18,16 +18,16 @@ namespace Dog_WRM
 			Console.WriteLine("Age in human years: " + Dog1.getAge());
 			Console.WriteLine("Age in dog years: "+ Dog1.calcDogYears());
 			Console.WriteLine("Name: " + Dog1.getName());
-			Console.WriteLine("ToString Test: " + Dog1.toString());
+			Console.WriteLine("ToString Test: " + Dog1.ToString());
 		}
     }
 
 	/**
  * This class models a Dog.
  * @author Wade Muncy
- * @version 1.0
+ * @version 1.1
  * PP1
- * Project Version #1
+ * 1.1: converted to C#
  */
 	public class Dog
 	{
@@ -123,8 +123,8 @@ namespace Dog_WRM
 
 		}//end setName
 
-		
-		public String toString()
+
+		override public String ToString()
 		{
 			return "Dog [age=" + age + ", name=" + name + "]";
 		}//end toString
