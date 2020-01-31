@@ -1,0 +1,11 @@
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\bin\Debug\netcoreapp3.1\Dog_WRM.exe
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\bin\Debug\netcoreapp3.1\Dog_WRM.deps.json
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\bin\Debug\netcoreapp3.1\Dog_WRM.runtimeconfig.json
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\bin\Debug\netcoreapp3.1\Dog_WRM.runtimeconfig.dev.json
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\bin\Debug\netcoreapp3.1\Dog_WRM.dll
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\bin\Debug\netcoreapp3.1\Dog_WRM.pdb
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\obj\Debug\netcoreapp3.1\Dog_WRM.csprojAssemblyReference.cache
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\obj\Debug\netcoreapp3.1\Dog_WRM.AssemblyInfoInputs.cache
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\obj\Debug\netcoreapp3.1\Dog_WRM.AssemblyInfo.cs
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\obj\Debug\netcoreapp3.1\Dog_WRM.dll
+C:\Users\gismo\Source\Repos\Dog_WRM\Dog_WRM\obj\Debug\netcoreapp3.1\Dog_WRM.pdb
